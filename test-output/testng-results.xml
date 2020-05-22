@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33538" started-at="2020-03-16T01:49:16Z" finished-at="2020-03-16T01:49:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33538" started-at="2020-03-16T01:49:16Z" finished-at="2020-03-16T01:49:50Z">
+      <class name="com.usa.logintest.FindPropertyTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.usa.logintest.FindPropertyTest@77e4c80f]" name="setUp" is-config="true" duration-ms="22260" started-at="2020-03-16T01:49:16Z" finished-at="2020-03-16T01:49:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="findProperties()[pri:0, instance:com.usa.logintest.FindPropertyTest@77e4c80f]" name="findProperties" duration-ms="9668" started-at="2020-03-16T01:49:38Z" finished-at="2020-03-16T01:49:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findProperties -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.usa.logintest.FindPropertyTest@77e4c80f]" name="tearDown" is-config="true" duration-ms="1588" started-at="2020-03-16T01:49:48Z" finished-at="2020-03-16T01:49:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.usa.logintest.FindPropertyTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
